@@ -1,7 +1,7 @@
 database:
     driverClass: com.mysql.cj.jdbc.Driver
     user: prenosdb
-    password: Moravcik1994<
+    password: 
     url: jdbc:mysql://mysql4.gear.host:3306/prenosdb?useSSL=false
     properties:
         charSet: UTF-8
